@@ -1,8 +1,8 @@
 ## pretrain_corpora
 
-Corpora of size 25M and 125M tokens cannot be uploaded to github due to their size, so we only uploaded here the 5M corpora  
+Corpora of size 25M and 125M tokens cannot be uploaded to github due to their size, so we only included the 5M token corpora in this folder.
 
-You can download the rest them using the following links:
+You can download the rest of them here:
 
 Basque:
 * [eu_125M.txt.gz](https://storage.cloud.google.com/elhuyar/low-scaling-laws/data/preprocess_raw_5-25-125M/eu_125M.txt.gz)
