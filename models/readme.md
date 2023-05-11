@@ -35,7 +35,7 @@ HH:hidden dimensions. INT: intermediate layer dimension. Heads: attention heads.
 | BERT_51M   |                                  |                                   |                                       |
 | BERT_16M   |                                  |                                   |                                       |
 
-BERT_124M trained on 125M corpus also available at [HF🤗 Datasets](https://huggingface.co/datasets/orai-nlp/)!
+BERT_124M trained on 125M corpus (which is SotA in some tasks) also available at [HF🤗 Datasets](https://huggingface.co/datasets/orai-nlp/)!
 
 ### Finnish
 
