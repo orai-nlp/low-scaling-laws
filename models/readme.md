@@ -2,11 +2,11 @@
 
 Description
 
-|           | Layers | HH     | INT  | Heads | Non-embedding parameters | Parameters |
-|-----------|--------|--------|------|-------|--------------------------|------------|
-| BERT_124M | 12     | 768    | 3072 | 12    | 86M                      | 124M       |
-| BERT_51M  | 8      | 512    | 2048 | 8     | 25M                      | 51M        |
-| BERT_16M  | 4      | 256    | 1024 | 4     | 3M                       | 16M        |
+|           | aka    | Layers | HH     | INT  | Heads | Non-embedding parameters | Parameters |
+|-----------|--------|--------|--------|------|-------|--------------------------|------------|
+| BERT_124M | base   | 12     | 768    | 3072 | 12    | 86M                      | 124M       |
+| BERT_51M  | medium | 8      | 512    | 2048 | 8     | 25M                      | 51M        |
+| BERT_16M  | mini   | 4      | 256    | 1024 | 4     | 3M                       | 16M        |
 
 HH:hidden dimensions. INT: intermediate layer dimension. Heads: attention heads.
 
