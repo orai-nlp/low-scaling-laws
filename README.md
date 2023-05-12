@@ -30,7 +30,7 @@ International License (CC BY-SA-NC 4.0). To view a copy of this license, visit [
 
 Acknowledgements
 -------------------
-If you use this benchmark please cite the following paper:
+If you use these corpora, datasets or models please cite the following paper:
 
 - G. Urbizu, I. San Vicente, X. Saralegi, R. Agerri, A. Soroa. Scaling Laws for BERT in Low-Resource Settings. Findings of the Association for Computational Linguistics: ACL 2023. July, 2023. Toronto, Canada
 
