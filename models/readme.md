@@ -10,7 +10,12 @@ Description
 
 HH:hidden dimensions. INT: intermediate layer dimension. Heads: attention heads.
 
-config files: [base-config.json](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_125M/config.json), [medium-config.json](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_eu_125M/config.json), [mini-config.json](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_eu_125M/config.json)
+config files: 
+BERT_124M: [base-config.json](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_125M/config.json)
+
+BERT_51M: [medium-config.json](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_eu_125M/config.json)
+
+BERT_16M: [mini-config.json](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_eu_125M/config.json)
 
 
 ### Basque
