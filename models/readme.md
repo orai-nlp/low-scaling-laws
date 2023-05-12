@@ -10,7 +10,7 @@ Description
 
 HH:hidden dimensions. INT: intermediate layer dimension. Heads: attention heads.
 
-config files: BERT_124M, BERT_51M, BERT_16M
+config files: base-config.json, medium-config.json, mini-config.json
 
 
 ### Basque
