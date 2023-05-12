@@ -10,11 +10,11 @@ Description
 
 HH:hidden dimensions. INT: intermediate layer dimension. Heads: attention heads.
 
-config files: base-config.json, medium-config.json, mini-config.json
+config files: [base-config.json](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_125M/config.json), [medium-config.json](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_eu_125M/config.json), [mini-config.json](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_eu_125M/config.json)
 
 
 ### Basque
-vocab files: eu5M eu25M eu125M
+vocab files: [eu5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_5M/vocab.txt) [eu25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_25M/vocab.txt) [eu125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_125M/vocab.txt)
 
 |            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
@@ -24,7 +24,7 @@ vocab files: eu5M eu25M eu125M
 
 ### Spanish
 
-vocab files: es5M es25M es125M
+vocab files: [es5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_es_5M/vocab.txt) [es25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_es_25M/vocab.txt) [es125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_es_125M/vocab.txt)
 
 |            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
@@ -34,7 +34,7 @@ vocab files: es5M es25M es125M
 
 ### Swahili
 
-vocab files: sw5M sw25M sw125M
+vocab files: [sw5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_5M/vocab.txt) [sw25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_25M/vocab.txt) [sw125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_125M/vocab.txt)
 
 |            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
@@ -46,7 +46,7 @@ BERT_124M (which is new SotA in some tasks) and BERT_51M (both trained on 125M t
 
 ### Finnish
 
-vocab files: fi5M fi25M fi125M
+vocab files: [fi5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_5M/vocab.txt) [fi25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_25M/vocab.txt) [fi125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_125M/vocab.txt)
 
 |            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
