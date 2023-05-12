@@ -18,7 +18,7 @@ vocab files: eu5M eu25M eu125M
 
 |            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
-| BERT_124M  |                                  |                                   |                                       |
+| BERT_124M  |  [bert-base-eu-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_5M/pytorch_model.bin)   |  [bert-base-eu-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_25M/pytorch_model.bin  |   [bert-base-eu-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_125M/pytorch_model.bin |
 | BERT_51M   |                                  |                                   |                                       |
 | BERT_16M   |                                  |                                   |                                       |
 
