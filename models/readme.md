@@ -32,9 +32,9 @@ vocab files: [es5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/mo
 
 |            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
-| BERT_124M  |                                  |                                   |                                       |
-| BERT_51M   |                                  |                                   |                                       |
-| BERT_16M   |                                  |                                   |                                       |
+| BERT_124M  |  [bert-base-es-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_es_5M/pytorch_model.bin)  |  [bert-base-es-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_es_25M/pytorch_model.bin)  |   [bert-base-es-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_es_125M/pytorch_model.bin) |
+| BERT_51M   |  [bert-medium-es-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_es_5M/pytorch_model.bin)  |  [bert-medium-es-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_es_25M/pytorch_model.bin)  |   [bert-medium-es-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_es_125M/pytorch_model.bin) |
+| BERT_16M   | [bert-mini-es-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_es_5M/pytorch_model.bin)  |  [bert-mini-es-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_es_25M/pytorch_model.bin)  |   [bert-mini-es-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_es_125M/pytorch_model.bin) |
 
 ### Swahili
 
@@ -42,9 +42,9 @@ vocab files: [sw5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/mo
 
 |            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
-| BERT_124M  |                                  |                                   |                                       |
-| BERT_51M   |                                  |                                   |                                       |
-| BERT_16M   |                                  |                                   |                                       |
+| BERT_124M  |  [bert-base-sw-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_5M/pytorch_model.bin)  |  [bert-base-sw-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_25M/pytorch_model.bin)  |   [bert-base-sw-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_125M/pytorch_model.bin) |
+| BERT_51M   |  [bert-medium-sw-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_sw_5M/pytorch_model.bin)  |  [bert-medium-sw-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_sw_25M/pytorch_model.bin)  |   [bert-medium-sw-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_sw_125M/pytorch_model.bin) |
+| BERT_16M   | [bert-mini-sw-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_sw_5M/pytorch_model.bin)  |  [bert-mini-sw-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_sw_25M/pytorch_model.bin)  |   [bert-mini-sw-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_sw_125M/pytorch_model.bin) |
 
 BERT_124M (which is new SotA in some tasks) and BERT_51M (both trained on 125M token corpus) are also available at [HF🤗 Datasets](https://huggingface.co/datasets/orai-nlp/bert-base-sw)!
 
@@ -54,6 +54,6 @@ vocab files: [fi5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/mo
 
 |            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
-| BERT_124M  |                                  |                                   |                                       |
-| BERT_51M   |                                  |                                   |                                       |
-| BERT_16M   |                                  |                                   |                                       |
+| BERT_124M  |  [bert-base-fi-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_5M/pytorch_model.bin)  |  [bert-base-fi-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_25M/pytorch_model.bin)  |   [bert-base-fi-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_125M/pytorch_model.bin) |
+| BERT_51M   |  [bert-medium-fi-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_fi_5M/pytorch_model.bin)  |  [bert-medium-fi-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_fi_25M/pytorch_model.bin)  |   [bert-medium-fi-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_fi_125M/pytorch_model.bin) |
+| BERT_16M   | [bert-mini-fi-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_fi_5M/pytorch_model.bin)  |  [bert-mini-fi-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_fi_25M/pytorch_model.bin)  |   [bert-mini-fi-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_fi_125M/pytorch_model.bin) |
