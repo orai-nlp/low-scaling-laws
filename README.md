@@ -10,7 +10,7 @@ Rodrigo Agerri [2] and Aitor Soroa [2]
 
 Affiliation of the authors: 
 
-[1] orai NLP Technologies
+[1] Orai NLP Technologies
 
 [2] HiTZ Center - Ixa, University of the Basque Country UPV/EHU
 
