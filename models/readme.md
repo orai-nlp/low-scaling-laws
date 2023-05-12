@@ -10,10 +10,13 @@ Description
 
 HH:hidden dimensions. INT: intermediate layer dimension. Heads: attention heads.
 
+config files: BERT_124M, BERT_51M, BERT_16M
+
 
 ### Basque
+vocab files: eu5M eu25M eu125M
 
-|            |   125M                           |   25M                             |   5M                                  |
+|            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
 | BERT_124M  |                                  |                                   |                                       |
 | BERT_51M   |                                  |                                   |                                       |
@@ -21,7 +24,9 @@ HH:hidden dimensions. INT: intermediate layer dimension. Heads: attention heads.
 
 ### Spanish
 
-|            |   125M                           |   25M                             |   5M                                  |
+vocab files: es5M es25M es125M
+
+|            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
 | BERT_124M  |                                  |                                   |                                       |
 | BERT_51M   |                                  |                                   |                                       |
@@ -29,7 +34,9 @@ HH:hidden dimensions. INT: intermediate layer dimension. Heads: attention heads.
 
 ### Swahili
 
-|            |   125M                           |   25M                             |   5M                                  |
+vocab files: sw5M sw25M sw125M
+
+|            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
 | BERT_124M  |                                  |                                   |                                       |
 | BERT_51M   |                                  |                                   |                                       |
@@ -39,7 +46,9 @@ BERT_124M (which is new SotA in some tasks) and BERT_51M (both trained on 125M t
 
 ### Finnish
 
-|            |   125M                           |   25M                             |   5M                                  |
+vocab files: fi5M fi25M fi125M
+
+|            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
 | BERT_124M  |                                  |                                   |                                       |
 | BERT_51M   |                                  |                                   |                                       |
