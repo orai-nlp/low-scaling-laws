@@ -18,7 +18,7 @@ config files:
 
 
 ### Basque
-vocab files: [eu-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_5M/vocab.txt) [eu-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_25M/vocab.txt) [eu-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_125M/vocab.txt)
+vocab files: [eu-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_5M/vocab.txt), [eu-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_25M/vocab.txt), [eu-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_eu_125M/vocab.txt)
 
 |            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
@@ -38,7 +38,7 @@ vocab files: [es-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/m
 
 ### Swahili
 
-vocab files: [sw-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_5M/vocab.txt) [sw-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_25M/vocab.txt) [sw-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_125M/vocab.txt)
+vocab files: [sw-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_5M/vocab.txt), [sw-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_25M/vocab.txt), [sw-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_sw_125M/vocab.txt)
 
 |            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
@@ -50,7 +50,7 @@ BERT_124M (which is new SotA in some tasks) and BERT_51M (both trained on 125M t
 
 ### Finnish
 
-vocab files: [fi-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_5M/vocab.txt) [fi-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_25M/vocab.txt) [fi-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_125M/vocab.txt)
+vocab files: [fi-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_5M/vocab.txt), [fi-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_25M/vocab.txt), [fi-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_base_fi_125M/vocab.txt)
 
 |            |   5M                             |   25M                             |   125M                                |
 |------------|----------------------------------|-----------------------------------|---------------------------------------|
