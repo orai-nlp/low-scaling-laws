@@ -34,7 +34,7 @@ HH:hidden dimensions. INT: intermediate layer dimension. Heads: attention heads.
 | BERT_51M   |  [bert-medium-sw-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_sw_5M/pytorch_model.bin)  |  [bert-medium-sw-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_sw_25M/pytorch_model.bin)  |   [bert-medium-sw-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_medium_sw_125M/pytorch_model.bin) |
 | BERT_16M   | [bert-mini-sw-5M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_sw_5M/pytorch_model.bin)  |  [bert-mini-sw-25M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_sw_25M/pytorch_model.bin)  |   [bert-mini-sw-125M](https://storage.cloud.google.com/elhuyar/low-scaling-laws/models/bert_mini_sw_125M/pytorch_model.bin) |
 
-[bert-base-sw-125M](https://huggingface.co/datasets/orai-nlp/bert-base-sw) (SotA) and [bert-medium-sw-125M](https://huggingface.co/datasets/orai-nlp/bert-base-sw) are also available at HF🤗! 
+[bert-base-sw-125M](https://huggingface.co/datasets/orai-nlp/bert-base-sw) (SotA) and [bert-medium-sw-125M](https://huggingface.co/datasets/orai-nlp/bert-medium-sw) are also available at HF🤗! 
 
 ### Finnish
 
