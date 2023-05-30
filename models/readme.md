@@ -1,6 +1,6 @@
 # Models
 
-Here you can download our 36 models of 3 different model sizes (see Table below) and trained for 3 different pretraining corpora (5M-25M-125M) for each language:
+Here you can download our 36 models of 3 different model sizes (see Table below) and trained for 3 different pretraining corpora (5M-25M-125M) for each language from our work Scaling Laws for BERT in Low-Resource Settings accepted at ACL2023 Findings.
 
 |           | aka    | Layers | HH     | INT  | Heads | Non-embedding parameters | Parameters |
 |-----------|--------|--------|--------|------|-------|--------------------------|------------|
