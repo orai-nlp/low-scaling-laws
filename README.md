@@ -1,6 +1,6 @@
 # Scaling Laws for BERT in Low-Resource Settings
 
-Data (corpora and datasets) and models from our work *Scaling Laws for BERT in Low-Resource Settings* accepted at ACL2023 Findings.
+Data (corpora and datasets) and models from our work [*Scaling Laws for BERT in Low-Resource Settings*](https://aclanthology.org/2023.findings-acl.492.pdf) accepted at ACL2023 Findings.
 
 
 Authors
