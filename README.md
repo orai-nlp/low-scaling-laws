@@ -34,7 +34,15 @@ If you use these corpora, datasets or models please cite the following paper:
 
 - G. Urbizu, I. San Vicente, X. Saralegi, R. Agerri, A. Soroa. Scaling Laws for BERT in Low-Resource Settings. Findings of the Association for Computational Linguistics: ACL 2023. July, 2023. Toronto, Canada
 
-
+```
+@inproceedings{urbizu2023scaling,
+  title={Scaling Laws for BERT in Low-Resource Settings},
+  author={Urbizu, Gorka and San Vicente, I{\~n}aki and Saralegi, Xabier and Agerri, Rodrigo and Soroa, Aitor},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2023},
+  pages={7771--7789},
+  year={2023}
+}
+```
 
 Contact information
 -----------------------
